@@ -1,0 +1,9 @@
+Para que funcione el Embeding hay que copiar este SBWC de Fast Text en la carpeta de 'Python' ya que Github no permite subirlo por su tamaño
+FastText embeddings from SBWC
+Embeddings
+Links to the embeddings (#dimensions=300, #vectors=855,380):
+
+descargar este
+Vector format (.vec.gz) (802 MB)
+
+https://github.com/dccuchile/spanish-word-embeddings/tree/master?tab=readme-ov-file#fasttext-embeddings-from-sbwc
